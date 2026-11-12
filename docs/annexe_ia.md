@@ -1,6 +1,6 @@
 # Déclaration d'utilisation des outils d'IA générative
 
-Ce projet a été développé avec l'aide de Codex (OpenAI) : conception de l'architecture, production et correction de code Python/React/TypeScript, tests, documentation et rédaction initiale du jeu d'évaluation après lecture des PDF. L'identifiant exact du modèle de développement n'est pas attesté dans ce dépôt.
+Codex (OpenAI) a servi à préparer l’architecture, proposer et corriger du code, écrire des tests et documenter le projet. Il a aussi aidé à rédiger une première version du jeu d’évaluation à partir des PDF.
 
 L'application appelle l'API OpenAI pour les embeddings, la reformulation documentée et la vérification de fidélité. Le modèle de génération et le modèle embedding sont inscrits dans la configuration ; chaque exécution d'évaluation enregistre leurs noms. L'option de notation automatique ajoute un usage d'OpenAI comme évaluateur.
 

@@ -4,7 +4,7 @@ Application universitaire RAG : FastAPI/Pydantic, React/TypeScript/Vite, embeddi
 
 ## Démarrage sous Windows / PowerShell
 
-Depuis ce dossier (`C:\Users\user\Documents\ChatGPT\rag-project`) :
+Depuis la racine du projet :
 
 ```powershell
 # Installation sur une nouvelle machine (Python 3.11+ et Node 20.19+)
