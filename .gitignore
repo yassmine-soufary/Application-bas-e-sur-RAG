@@ -1,0 +1,13 @@
+.venv/
+.uv-cache/
+**/__pycache__/
+.pytest_cache/
+*.pyc
+*.tsbuildinfo
+**/.env
+node_modules/
+.npm-cache/
+frontend/dist/
+data/chroma_db/
+eval/results/
+tmp/

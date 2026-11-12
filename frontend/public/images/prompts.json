@@ -1,0 +1,13 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "file": "assistant-eih.png",
+      "prompt": "Use case: stylized-concept. Asset type: transparent PNG character illustration for a French academic assistant web application. Reference image: the attached screenshot is only a STYLE AND CHARACTER reference, not an edit target. Generate ONLY the friendly female virtual assistant shown in its welcome area, no UI or text. Young adult professional character with dark violet hair in a high rounded bun, round dark purple glasses, warm brown eyes, friendly smile, light warm skin, white university hoodie with a small navy square H badge on chest, one hand raised palm-up gesturing helpfully to the right. Waist-up three-quarter pose facing right, clean complete silhouette and natural hands. Polished soft 3D/cartoon editorial illustration with rounded forms, delicate gradients, soft violet shadows, crisp edges. Restrained violet #8165DB and navy #1B214A, white hoodie. Transparent background, no circular backdrop, no surrounding UI, no campus, no other character, no watermark. Asset must look warm, premium and professional as in the screenshot, not flat stick-figure art. Save final selected image copy in C:/Users/user/Documents/ChatGPT/rag-project/frontend/public/images/assistant-eih.png if output instructions are supported."
+    },
+    {
+      "file": "campus-eih.png",
+      "prompt": "Use case: stylized-concept. Asset type: decorative wide campus illustration for an academic assistant web interface. Primary request: a polished realistic architectural visualization of a fictional modern engineering school, seen from a slightly low three-quarter view, three storeys, large navy-framed windows, light stone facade, landscaped campus lawn, spring pink flowering trees at the left and green leaves across the upper edge, soft sunny daylight. Building signage reads only 'EIH' in restrained white letters on a dark panel. Calm professional welcoming atmosphere, photographic architectural-render quality. Wide horizontal composition, no people in foreground, no UI, no browser chrome, no watermark. This is explicitly a decorative imagined campus, not a photograph of any actual institution. Keep colors restrained: navy, cream, soft blue glass and natural green/pink."
+    }
+  ]
+}
